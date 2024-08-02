@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\bin\Debug\ZooManagement.exe.config
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\bin\Debug\ZooManagement.exe
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\bin\Debug\ZooManagement.pdb
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\obj\Debug\ZooManagement.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\obj\Debug\ZooManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\obj\Debug\ZooManagement.exe
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\ZooManagement\obj\Debug\ZooManagement.pdb

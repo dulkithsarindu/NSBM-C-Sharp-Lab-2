@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\bin\Debug\Bank.exe.config
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\bin\Debug\Bank.exe
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\bin\Debug\Bank.pdb
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\obj\Debug\Bank.exe
+C:\Users\User\Desktop\University\Y1Sem3\C #\Tutorial\Lab sheet 7\Bank\obj\Debug\Bank.pdb
